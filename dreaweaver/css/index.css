@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Colorlib Templates">
+    <meta name="author" content="Colorlib">
+    <meta name="keywords" content="Colorlib Templates">
+
+   
+
+    <!-- Icons font CSS-->
+    <link href="../../Downloads/colorlib-regform-3/vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+    <link href="../../Downloads/colorlib-regform-3/vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Vendor CSS-->
+    <link href="../../Downloads/colorlib-regform-3/vendor/select2/select2.min.css" rel="stylesheet" media="all">
+    <link href="../../Downloads/colorlib-regform-3/vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
+
+    <!-- Main CSS-->
+    <link href="../../Downloads/colorlib-regform-3/css/main.css" rel="stylesheet" media="all">
+</head>
+
+<body>
+    <div class="page-wrapper bg-gra-01 p-t-180 p-b-100 font-poppins">
+        <div class="wrapper wrapper--w780">
+            <div class="card card-3">
+<div class="card-body">
+	
+       <img src="../../Downloads/Logo Bobby X/Logo Bobby X.001.png" alt="logo" width="400" height="227" style="align-content: center">
+<html>
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
+
+/email send form <a ref>
+.cancelbtn {
+  padding: 14px 20px;
+  background-color: #f44336;
+}
+
+
+.cancelbtn, .signupbtn {
+  float: left;
+  width: 50%;
+}
+
+/* Add padding to container elements */
+.container {
+  padding: 16px;
+}
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn, .signupbtn {
+     width: 100%;
+  }
+}
+</style>
+<body>
+
+<form method="post" name="myemailform" action="../../Downloads/colorlib-regform-3/form-to-email.php">
+  <div class="container">
+    <h1 style="color:white;">Sign up to newsletter</h1>
+    <p>Please fill in this form to create an account.</p>
+    <hr>
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+   
+   
+
+    <div class="clearfix">
+      <button style="background-color:red" type="button" class="cancelbtn">Cancel</button>
+      <button onClick="" type="submit" class="signupbtn">Sign Up</button>
+		
+		
+    </div>
+  </div>
+</form>
+
+</body>
+</html>
+
+                    
+                       
+        </div>
+              </div>
+          </div>
+        </div>
+    
+
+    <!-- Jquery JS-->
+    <script src="../../Downloads/colorlib-regform-3/vendor/jquery/jquery.min.js"></script>
+    <!-- Vendor JS-->
+    <script src="../../Downloads/colorlib-regform-3/vendor/select2/select2.min.js"></script>
+    <script src="../../Downloads/colorlib-regform-3/vendor/datepicker/moment.min.js"></script>
+    <script src="../../Downloads/colorlib-regform-3/vendor/datepicker/daterangepicker.js"></script>
+
+    <!-- Main JS-->
+    <script src="../../Downloads/colorlib-regform-3/js/global.js"></script>
+
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+
+</html>
+<!-- end document-->
